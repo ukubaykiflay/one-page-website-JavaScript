@@ -1,0 +1,22 @@
+<!Doctype html> 
+<html long="en">
+    <head> 
+       <title> one page website JavaScript project Assignment<title> 
+        <meta charset ="utf-8"> 
+         <script src="JS/main.js"> </script> 
+          </head>
+          <body> 
+          </body> 
+          <html>
+         // main.js
+         //window. alert method 
+          window. alert("hello, word!"), 
+         //document. write method
+         document. write (" for the first time hello, word"),
+        // create two variables 
+        var sent1 = " the first  of the string", 
+        var sent2 = "the last of the string",
+        // displaying  the variables using the document. write method 
+        document. write( sent1 +sent2) 
+        // expression 
+         document. write(50+35)
